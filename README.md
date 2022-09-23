@@ -10,3 +10,8 @@ some text
 
 merge conflict 2
 merge conflict 1
+
+merge conflict 1
+sdfs
+sdfsdf
+
