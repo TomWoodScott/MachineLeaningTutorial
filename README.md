@@ -7,8 +7,6 @@ some text
 2. update 
 3. i now know what was going on!!!! wooooo!!!!!
 
-<<<<<<< HEAD
+
 merge conflict 2
-=======
 merge conflict 1
->>>>>>> main
