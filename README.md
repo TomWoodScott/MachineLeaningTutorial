@@ -8,3 +8,5 @@ some text
 3. i now know what was going on!!!! wooooo!!!!!
 
 merge conflict 1
+sdfs
+sdfsdf
